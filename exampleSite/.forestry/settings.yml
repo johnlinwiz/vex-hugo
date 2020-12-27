@@ -5,6 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Radio
+- type: heading
   label: Homepage
 - type: document
   path: exampleSite/data/en/homepage.yml
